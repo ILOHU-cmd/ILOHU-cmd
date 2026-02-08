@@ -1,47 +1,47 @@
 <div align="center">
   
-# 👋 ¡Hola! Soy ILOHU
+# 👋 Hi there! I'm Emerson
 
-### 🛡️ Analista de Datos | Aspirante a Blue Team | Cybersecurity Enthusiast
+### 🛡️ Data Analyst | Aspiring Blue Team Specialist | Cybersecurity Enthusiast
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emerson-ballesteros-diaz-599705267/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](248193445+ILOHU-cmd@users.noreply.github.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tu-usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emersondiaz1805+github@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ILOHU)
 
 </div>
 
 ---
 
-## 🎯 Sobre Mí
+## 🎯 About Me
 
 ```python
 class BlueTeamAnalyst:
     def __init__(self):
-        self.nombre = "Tu Nombre"
-        self.rol = "Analista de Datos"
-        self.objetivo = "Blue Team Specialist"
-        self.ubicacion = "Bucaramanga, Colombia"
+        self.name = "Emerson"
+        self.role = "Data Analyst"
+        self.goal = "Blue Team Specialist"
+        self.location = "Bucaramanga, Colombia"
         
-    def habilidades_actuales(self):
+    def current_skills(self):
         return {
-            "analisis": ["Python", "Pandas", "Data Analysis"],
-            "aprendiendo": ["SQL", "Linux Logs", "SIEM"],
-            "intereses": ["Threat Detection", "Security Analytics", "SOC"]
+            "analysis": ["Python", "Pandas", "Data Analysis"],
+            "learning": ["SQL", "Linux Logs", "SIEM"],
+            "interests": ["Threat Detection", "Security Analytics", "SOC"]
         }
     
-    def mision(self):
-        return "Proteger sistemas mediante análisis de datos y detección de amenazas"
+    def mission(self):
+        return "Protecting systems through data analysis and threat detection"
 ```
 
-🔍 Apasionado por transformar datos en insights de seguridad  
-🛡️ En camino a convertirme en un especialista de Blue Team  
-📊 Combinando análisis de datos con ciberseguridad defensiva  
+🔍 Passionate about transforming data into security insights  
+🛡️ On the path to becoming a Blue Team specialist  
+📊 Combining data analysis with defensive cybersecurity  
 
 ---
 
-## 🛠️ Stack Tecnológico
+## 🛠️ Tech Stack
 
-### Lenguajes & Herramientas
+### Languages & Tools
 
 <div align="center">
 
@@ -52,7 +52,7 @@ class BlueTeamAnalyst:
 
 </div>
 
-### 📚 Actualmente Aprendiendo
+### 📚 Currently Learning
 
 ```bash
 [████████░░] 80% Python for Security
@@ -62,31 +62,31 @@ class BlueTeamAnalyst:
 [██░░░░░░░░] 20% Threat Intelligence
 ```
 
-### 🎓 Áreas de Enfoque
+### 🎓 Focus Areas
 
-- **🔐 Blue Team**: Análisis de logs, detección de amenazas, respuesta a incidentes
-- **📊 Data Analysis**: Pandas, NumPy, visualización de datos
-- **🐧 Linux Security**: Análisis de logs del sistema, hardening, monitoreo
-- **🗄️ Databases**: SQL para consultas de seguridad y análisis forense
-- **🚨 SIEM**: Aprendiendo a correlacionar eventos de seguridad
+- **🔐 Blue Team**: Log analysis, threat detection, incident response
+- **📊 Data Analysis**: Pandas, NumPy, data visualization
+- **🐧 Linux Security**: System log analysis, hardening, monitoring
+- **🗄️ Databases**: SQL for security queries and forensic analysis
+- **🚨 SIEM**: Learning to correlate security events
 
 ---
 
-## 📈 Estadísticas de GitHub
+## 📈 GitHub Statistics
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ILOHU&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ILOHU&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ILOHU&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
 
 </div>
 
 ---
 
-## 🔥 Proyectos Destacados
+## 🔥 Featured Projects
 
 ### 🛡️ Security Analytics
 
@@ -95,10 +95,10 @@ class BlueTeamAnalyst:
 <td width="50%">
 
 #### 📊 Log Analyzer
-Script Python para análisis automatizado de logs de Linux
-- Detección de patrones sospechosos
-- Alertas automáticas
-- Visualización de datos
+Python script for automated Linux log analysis
+- Suspicious pattern detection
+- Automated alerts
+- Data visualization
   
 `Python` `Pandas` `Security`
 
@@ -106,10 +106,10 @@ Script Python para análisis automatizado de logs de Linux
 <td width="50%">
 
 #### 🔍 Network Monitor
-Herramienta de monitoreo de red
-- Análisis de tráfico
-- Detección de anomalías
-- Reportes en tiempo real
+Network monitoring tool
+- Traffic analysis
+- Anomaly detection
+- Real-time reporting
   
 `Python` `Scapy` `SQL`
 
@@ -120,10 +120,10 @@ Herramienta de monitoreo de red
 <td width="50%">
 
 #### 📈 Security Dashboard
-Dashboard interactivo para SOC
-- Métricas de seguridad
-- Visualización de eventos
-- Indicadores de compromiso
+Interactive SOC dashboard
+- Security metrics
+- Event visualization
+- Indicators of compromise
   
 `Python` `Plotly` `Streamlit`
 
@@ -131,10 +131,10 @@ Dashboard interactivo para SOC
 <td width="50%">
 
 #### 🗄️ Threat Database
-Base de datos de amenazas
-- Catalogación de IOCs
-- Queries SQL optimizadas
-- Integración con SIEM
+Threat intelligence database
+- IOC cataloging
+- Optimized SQL queries
+- SIEM integration
   
 `SQL` `PostgreSQL` `Python`
 
@@ -144,7 +144,7 @@ Base de datos de amenazas
 
 ---
 
-## 🎯 Roadmap de Aprendizaje 2026
+## 🎯 2026 Learning Roadmap
 
 ```mermaid
 graph LR
@@ -159,38 +159,38 @@ graph LR
 ```
 
 ### Q1 2026
-- ✅ Dominar Python para análisis de seguridad
-- 🔄 SQL avanzado para bases de datos de seguridad
-- 🔄 Análisis profundo de logs de Linux
+- ✅ Master Python for security analysis
+- 🔄 Advanced SQL for security databases
+- 🔄 Deep dive into Linux log analysis
 
 ### Q2 2026
-- 📋 Certificación en ciberseguridad
-- 📋 Práctica con herramientas SIEM (Splunk/ELK)
-- 📋 Threat Hunting básico
+- 📋 Cybersecurity certification
+- 📋 Hands-on practice with SIEM tools (Splunk/ELK)
+- 📋 Basic threat hunting
 
 ### Q3-Q4 2026
-- 📋 CTFs y práctica en Blue Team
-- 📋 Contribuir a proyectos open source de seguridad
-- 📋 Primer rol en SOC
+- 📋 CTFs and Blue Team practice
+- 📋 Contribute to open-source security projects
+- 📋 First SOC role
 
 ---
 
-## 💡 Citas que me inspiran
+## 💡 Quotes That Inspire Me
 
-> *"La mejor defensa es saber lo que estás defendiendo"* 
+> *"The best defense is knowing what you're defending"* 
 
-> *"Los datos no mienten, solo necesitas saber cómo escucharlos"*
+> *"Data doesn't lie, you just need to know how to listen to it"*
 
 ---
 
-## 📫 Conecta Conmigo
+## 📫 Connect With Me
 
 <div align="center">
 
-📧 **Email:** tu-email@example.com  
-💼 **LinkedIn:** [Tu Perfil](https://linkedin.com/in/tu-perfil)  
-🐦 **Twitter:** [@tu-usuario](https://twitter.com/tu-usuario)  
-📝 **Blog:** [tu-blog.com](https://tu-blog.com)
+📧 **Email:** emersondiaz1805+github@gmail.com  
+💼 **LinkedIn:** [Your Profile](https://linkedin.com/in/your-profile)  
+🐦 **Twitter:** [@your-handle](https://twitter.com/your-handle)  
+📝 **Blog:** [your-blog.com](https://your-blog.com)
 
 </div>
 
@@ -198,11 +198,11 @@ graph LR
 
 <div align="center">
 
-### 🌟 "Transformando datos en seguridad, un log a la vez" 🌟
+### 🌟 "Transforming data into security, one log at a time" 🌟
 
-![Visitor Count](https://profile-counter.glitch.me/tu-usuario/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/ILOHU/count.svg)
 
-**⭐ ¿Te gustó mi perfil? ¡Dale una estrella a mis repos!**
+**⭐ Like my profile? Star my repos!**
 
 </div>
 
