@@ -14,24 +14,6 @@
 
 ## 🎯 About Me
 
-```python
-class BlueTeamAnalyst:
-    def __init__(self):
-        self.name = "Emerson"
-        self.role = "Data Analyst"
-        self.goal = "Blue Team Specialist"
-        self.location = "Bucaramanga, Colombia"
-        
-    def current_skills(self):
-        return {
-            "analysis": ["Python", "Pandas", "Data Analysis"],
-            "learning": ["SQL", "Linux Logs", "SIEM"],
-            "interests": ["Threat Detection", "Security Analytics", "SOC"]
-        }
-    
-    def mission(self):
-        return "Protecting systems through data analysis and threat detection"
-```
 
 🔍 Passionate about transforming data into security insights  
 🛡️ On the path to becoming a Blue Team specialist  
