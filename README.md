@@ -1,38 +1,18 @@
-
 <div align="center">
   
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=Emerson%20Diaz&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Data%20Analyst%20%7C%20Blue%20Team%20Aspirant%20%7C%20Security%20Researcher&descSize=18&descAlignY=55" width="100%"/>
+# 👋 Hi there! I'm Emerson
 
-<br/>
+### 🛡️ Data Analyst | Aspiring Blue Team Specialist | Cybersecurity Enthusiast
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Security+Through+Data;Threat+Detection+%7C+Log+Analysis;Building+Defensive+Capabilities;One+Dataset+at+a+Time" alt="Typing SVG" /></a>
-
-<br/><br/>
-
-<!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000)](your-linkedin-url)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000)](mailto:emersondiaz1805+github@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000)](https://twitter.com/your-handle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white&labelColor=000)](https://your-portfolio.com)
-
-<br/>
-
-![Visitor Count](https://profile-counter.glitch.me/ILOHU-cmd/count.svg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emersondiaz1805+github@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ILOHU)
 
 </div>
 
-<br/>
+---
 
-<!-- ========================================
-     ABOUT ME SECTION
-     ======================================== -->
-<div align="center">
-
-<details open>
-<summary><h2>🎯 About Me</h2></summary>
-
-<br/>
+## 🎯 About Me
 
 ```python
 class BlueTeamAnalyst:
@@ -40,234 +20,131 @@ class BlueTeamAnalyst:
         self.name = "Emerson"
         self.role = "Data Analyst"
         self.goal = "Blue Team Specialist"
-        self.location = "Bucaramanga, Colombia 🇨🇴"
+        self.location = "Bucaramanga, Colombia"
         
-    def get_mission(self):
-        return """
-        Transforming raw data into 
-        actionable security intelligence.
-        Protecting systems through 
-        analysis and threat detection.
-        """
+    def current_skills(self):
+        return {
+            "analysis": ["Python", "Pandas", "Data Analysis"],
+            "learning": ["SQL", "Linux Logs", "SIEM"],
+            "interests": ["Threat Detection", "Security Analytics", "SOC"]
+        }
     
-    def current_mode(self):
-        return "🔍 Learning Mode: Active"
+    def mission(self):
+        return "Protecting systems through data analysis and threat detection"
 ```
 
-<br/>
+🔍 Passionate about transforming data into security insights  
+🛡️ On the path to becoming a Blue Team specialist  
+📊 Combining data analysis with defensive cybersecurity  
 
-### 💫 What I'm About
+---
 
-🔍 Leveraging data analysis to identify security threats  
-🛡️ Building defensive capabilities through log analysis  
-🎓 Continuously learning cybersecurity fundamentals  
-🔐 Passionate about SOC operations and monitoring  
-
-<br/>
-
-### 🎯 Philosophy
-
-> **"The best defense is knowing what you're defending"**
-
-> **"Data doesn't lie, you just need to know how to listen to it"**
-
-> **"Every incident is a learning opportunity"**
-
-</details>
-
-</div>
-
-<br/>
-
-<!-- ========================================
-     TECH STACK SECTION
-     ======================================== -->
-<div align="center">
-
-<details open>
-<summary><h2>🛠️ Tech Stack & Skills</h2></summary>
-
-<br/>
+## 🛠️ Tech Stack
 
 ### Languages & Tools
+
+<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-<br/>
-
-### 📚 Learning Progress
-
-**Security Focus**
-```
-Python for Security  ████████░░ 80%
-Linux Log Analysis   █████░░░░░ 50%
-SIEM Tools           ███░░░░░░░ 30%
-Threat Intelligence  ██░░░░░░░░ 20%
-```
-
-**Data Analysis**
-```
-SQL Analysis         ██████░░░░ 60%
-Pandas & NumPy       ███████░░░ 70%
-Data Visualization   █████░░░░░ 50%
-Statistical Analysis ████░░░░░░ 40%
-```
-
-<br/>
-
-### 🎯 Core Competencies
-
-**🔐 Blue Team**  
-Log Analysis • Threat Detection • Incident Response  
-SOC Operations • Security Monitoring
-
-**📊 Data Analysis**  
-Python • Pandas • NumPy • SQL Queries  
-Data Visualization • Pattern Recognition
-
-**🐧 Linux Security**  
-System Logs • Hardening • Bash Scripting  
-Monitoring • Forensics
-
-</details>
 
 </div>
 
-<br/>
+### 📚 Currently Learning
 
-<!-- ========================================
-     GITHUB STATS SECTION
-     ======================================== -->
+```bash
+[████████░░] 80% Python for Security
+[██████░░░░] 60% SQL Analysis
+[█████░░░░░] 50% Linux Log Analysis
+[███░░░░░░░] 30% SIEM Tools
+[██░░░░░░░░] 20% Threat Intelligence
+```
+
+### 🎓 Focus Areas
+
+- **🔐 Blue Team**: Log analysis, threat detection, incident response
+- **📊 Data Analysis**: Pandas, NumPy, data visualization
+- **🐧 Linux Security**: System log analysis, hardening, monitoring
+- **🗄️ Databases**: SQL for security queries and forensic analysis
+- **🚨 SIEM**: Learning to correlate security events
+
+---
+
+## 📈 GitHub Statistics
+
 <div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ILOHU&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)
 
-<details open>
-<summary><h2>📈 GitHub Analytics</h2></summary>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ILOHU&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)
 
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=ILOHU-cmd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&ring_color=00D9FF" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ILOHU-cmd&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=8B949E" width="48%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ILOHU-cmd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" width="50%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ILOHU-cmd&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=C9D1D9&area=true&area_color=00D9FF" width="98%"/>
-
-</details>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ILOHU&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
 
 </div>
 
-<br/>
+---
 
-<!-- ========================================
-     PROJECTS SECTION
-     ======================================== -->
-<div align="center">
+## 🔥 Featured Projects
 
-<details open>
-<summary><h2>🔥 Featured Projects</h2></summary>
-
-<br/>
-
-### 🛡️ Security Analytics Portfolio
-
-<br/>
+### 🛡️ Security Analytics
 
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="50%">
 
-**📊 Security Log Analyzer**
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ILOHU-cmd&repo=log-analyzer&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9)](https://github.com/ILOHU-cmd/log-analyzer)
-
-Python-based automated log analysis tool for detecting suspicious patterns in Linux system logs.
-
-**Features:**  
-🔍 Pattern matching • 🚨 Automated alerts  
-📈 Data visualization • 🔐 Security metrics
-
-`Python` `Pandas` `Matplotlib` `Regex`
+#### 📊 Log Analyzer
+Python script for automated Linux log analysis
+- Suspicious pattern detection
+- Automated alerts
+- Data visualization
+  
+`Python` `Pandas` `Security`
 
 </td>
-<td width="50%" align="center">
+<td width="50%">
 
-**🔍 Network Traffic Monitor**
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ILOHU-cmd&repo=network-monitor&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9)](https://github.com/ILOHU-cmd/network-monitor)
-
-Real-time network traffic analysis tool for identifying anomalies and potential threats.
-
-**Features:**  
-📡 Live traffic analysis • ⚠️ Anomaly detection  
-📊 Real-time reporting • 💾 SQL integration
-
-`Python` `Scapy` `SQL` `Streamlit`
+#### 🔍 Network Monitor
+Network monitoring tool
+- Traffic analysis
+- Anomaly detection
+- Real-time reporting
+  
+`Python` `Scapy` `SQL`
 
 </td>
 </tr>
 
 <tr>
-<td width="50%" align="center">
+<td width="50%">
 
-**📈 SOC Dashboard**
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ILOHU-cmd&repo=soc-dashboard&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9)](https://github.com/ILOHU-cmd/soc-dashboard)
-
-Interactive security operations center dashboard for monitoring security events and metrics.
-
-**Features:**  
-📊 Real-time metrics • 🎨 Interactive viz  
-🔔 Alert management • 📈 Trend analysis
-
-`Python` `Plotly` `Dash` `SQLite`
+#### 📈 Security Dashboard
+Interactive SOC dashboard
+- Security metrics
+- Event visualization
+- Indicators of compromise
+  
+`Python` `Plotly` `Streamlit`
 
 </td>
-<td width="50%" align="center">
+<td width="50%">
 
-**🗄️ Threat Intelligence DB**
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ILOHU-cmd&repo=threat-intel-db&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9)](https://github.com/ILOHU-cmd/threat-intel-db)
-
-Comprehensive threat intelligence database for cataloging IOCs and security indicators.
-
-**Features:**  
-🎯 IOC cataloging • 🔎 Advanced queries  
-🔗 SIEM integration • 📝 Auto reporting
-
-`PostgreSQL` `Python` `SQLAlchemy`
+#### 🗄️ Threat Database
+Threat intelligence database
+- IOC cataloging
+- Optimized SQL queries
+- SIEM integration
+  
+`SQL` `PostgreSQL` `Python`
 
 </td>
 </tr>
 </table>
 
-<br/>
+---
 
-**🌟 More projects coming soon! Currently building and learning...**
-
-</details>
-
-</div>
-
-<br/>
-
-<!-- ========================================
-     LEARNING ROADMAP SECTION
-     ======================================== -->
-<div align="center">
-
-<details>
-<summary><h2>🎯 2026 Learning Roadmap</h2></summary>
-
-<br/>
+## 🎯 2026 Learning Roadmap
 
 ```mermaid
 graph LR
@@ -277,158 +154,60 @@ graph LR
     D --> E[Threat Hunting]
     E --> F[Blue Team Analyst]
     
-    style A fill:#00D9FF,stroke:#fff,stroke-width:2px,color:#000
-    style B fill:#0099CC,stroke:#fff,stroke-width:2px,color:#fff
-    style C fill:#0077AA,stroke:#fff,stroke-width:2px,color:#fff
-    style D fill:#005588,stroke:#fff,stroke-width:2px,color:#fff
-    style E fill:#003366,stroke:#fff,stroke-width:2px,color:#fff
-    style F fill:#00FF00,stroke:#fff,stroke-width:2px,color:#000
+    style A fill:#00D9FF
+    style F fill:#00FF00
 ```
 
-<br/>
+### Q1 2026
+- ✅ Master Python for security analysis
+- 🔄 Advanced SQL for security databases
+- 🔄 Deep dive into Linux log analysis
 
-### Q1 2026 🚀
-✅ Python fundamentals  
-✅ Pandas & NumPy mastery  
-⏳ Advanced SQL queries  
-⏳ Linux log analysis deep dive  
-⏳ First security project
+### Q2 2026
+- 📋 Cybersecurity certification
+- 📋 Hands-on practice with SIEM tools (Splunk/ELK)
+- 📋 Basic threat hunting
 
-### Q2 2026 📚
-📋 Security certification prep  
-📋 SIEM tools (Splunk/ELK)  
-📋 Threat hunting basics  
-📋 CTF participation  
-📋 Networking fundamentals
+### Q3-Q4 2026
+- 📋 CTFs and Blue Team practice
+- 📋 Contribute to open-source security projects
+- 📋 First SOC role
 
-### Q3-Q4 2026 🎯
-📋 Advanced threat detection  
-📋 Incident response practice  
-📋 Open-source contributions  
-📋 Professional certification  
-📋 First SOC role 🎉
+---
 
-<br/>
+## 💡 Quotes That Inspire Me
 
-**📌 Current Focus:** Building practical security projects while deepening Linux and SQL knowledge
+> *"The best defense is knowing what you're defending"* 
 
-</details>
+> *"Data doesn't lie, you just need to know how to listen to it"*
 
-</div>
+---
 
-<br/>
+## 📫 Connect With Me
 
-<!-- ========================================
-     BLOG & ACTIVITY SECTION
-     ======================================== -->
 <div align="center">
 
-<details>
-<summary><h2>📝 Latest Activity & Insights</h2></summary>
-
-<br/>
-
-### 🔖 Recent Learning Notes
-
-🔍 **Log Analysis Techniques**  
-Explored different approaches to parse and analyze auth.log files for suspicious activities
-
-🐍 **Python Security Libraries**  
-Discovered powerful modules like `scapy`, `dpkt`, and `pyshark` for network analysis
-
-🗄️ **SQL for Security**  
-Learning advanced JOIN operations for correlating security events across multiple tables
-
-🛡️ **SIEM Basics**  
-Started hands-on practice with ELK stack for centralized logging
-
-<br/>
-
-### 📖 Currently Reading
-
-📘 "The Art of Network Security Monitoring" - Richard Bejtlich  
-📙 "Practical Malware Analysis" - Michael Sikorski  
-📕 "Blue Team Handbook" - Don Murdoch
-
-</details>
+📧 **Email:** emersondiaz1805+github@gmail.com  
+💼 **LinkedIn:** [Your Profile](https://linkedin.com/in/your-profile)  
+🐦 **Twitter:** [@your-handle](https://twitter.com/your-handle)  
+📝 **Blog:** [your-blog.com](https://your-blog.com)
 
 </div>
 
-<br/>
+---
 
-<!-- ========================================
-     CONNECT SECTION
-     ======================================== -->
 <div align="center">
 
-<details open>
-<summary><h2>📫 Let's Connect</h2></summary>
+### 🌟 "Transforming data into security, one log at a time" 🌟
 
-<br/>
+![Visitor Count](https://profile-counter.glitch.me/ILOHU/count.svg)
 
-### 📧 Email
-[emersondiaz1805+github@gmail.com](mailto:emersondiaz1805+github@gmail.com)
-
-### 💼 LinkedIn
-[Connect with me](https://linkedin.com/in/your-profile)
-
-### 🐦 Twitter
-[@your-handle](https://twitter.com/your-handle)
-
-### 🌐 Portfolio
-[your-site.com](https://your-site.com)
-
-<br/>
-
-### 💬 Open to Opportunities
-
-**I'm actively seeking opportunities in:**
-
-🔐 Security Operations Center (SOC) roles  
-📊 Security Data Analyst positions  
-🎓 Cybersecurity internships and mentorships  
-🤝 Collaborative security projects
-
-<br/>
-
-**📩 Feel free to reach out for:**
-
-💡 Security discussions and knowledge sharing  
-🛠️ Collaboration on open-source security tools  
-📚 Learning together and sharing resources  
-🌐 Networking in the cybersecurity community
-
-</details>
+**⭐ Like my profile? Star my repos!**
 
 </div>
 
-<br/><br/>
+---
 
-<!-- ========================================
-     FOOTER SECTION
-     ======================================== -->
 <div align="center">
-
-### 🌟 *"Transforming data into security, one log at a time"* 🌟
-
-<br/>
-
-**⭐ Enjoying my projects? Consider starring them!**
-
-<br/>
-
-[![GitHub followers](https://img.shields.io/github/followers/ILOHU-cmd?style=social)](https://github.com/ILOHU-cmd)
-[![GitHub stars](https://img.shields.io/github/stars/ILOHU-cmd?style=social)](https://github.com/ILOHU-cmd)
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=120&section=footer" width="100%"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontSize=0" width="100%"/>
 </div>
-
-<!-- 
-  ╔═══════════════════════════════════════════════════════════════════════════╗
-  ║  Thanks for visiting my profile!                                          ║
-  ║  Feel free to explore my repositories and reach out for collaboration.    ║
-  ╚═══════════════════════════════════════════════════════════════════════════╝
--->
