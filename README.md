@@ -9,8 +9,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ILOHU-cmd)
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ILOHU-cmd&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
+	<img src="https://komarev.com/ghpvc/?username=ILOHU-cmd&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
+
 
 </div>
 
