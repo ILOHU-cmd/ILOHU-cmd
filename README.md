@@ -130,13 +130,6 @@ Threat intelligence database
 
 
 
-## 💡 Quotes That Inspire Me
-
-> *"The best defense is knowing what you're defending"* 
-
-> *"Data doesn't lie, you just need to know how to listen to it"*
-
----
 
 ## 📫 Connect With Me
 
@@ -155,7 +148,6 @@ Threat intelligence database
 
 ### 🌟 "Transforming data into security, one log at a time" 🌟
 
-![Visitor Count](https://profile-counter.glitch.me/ILOHU-cmd/count.svg)
 
 **⭐ Like my profile? Star my repos!**
 
