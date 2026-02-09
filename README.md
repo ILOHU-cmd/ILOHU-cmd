@@ -74,72 +74,61 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" align="center">
+<br>
+<img src="https://img.icons8.com/fluency/48/000000/python.png" width="30"/> 
 
 #### 📊 Log Analyzer
 Python script for automated Linux log analysis
 - Suspicious pattern detection
 - Automated alerts
 - Data visualization
-  
+<br>
 `Python` `Pandas` `Security`
-
 </td>
-<td width="50%">
+
+<td width="50%" align="center">
+<br>
+<img src="https://img.icons8.com/fluency/48/000000/network-antenna.png" width="30"/>
 
 #### 🔍 Network Monitor
 Network monitoring tool
 - Traffic analysis
 - Anomaly detection
 - Real-time reporting
-  
+<br>
 `Python` `Scapy` `SQL`
-
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" align="center">
+<br>
+<img src="https://img.icons8.com/fluency/48/000000/dashboard.png" width="30"/>
 
 #### 📈 Security Dashboard
 Interactive SOC dashboard
 - Security metrics
 - Event visualization
 - Indicators of compromise
-  
+<br>
 `Python` `Plotly` `Streamlit`
-
 </td>
-<td width="50%">
+
+<td width="50%" align="center">
+<br>
+<img src="https://img.icons8.com/fluency/48/000000/database.png" width="30"/>
 
 #### 🗄️ Threat Database
 Threat intelligence database
 - IOC cataloging
 - Optimized SQL queries
 - SIEM integration
-  
+<br>
 `SQL` `PostgreSQL` `Python`
-
 </td>
 </tr>
 </table>
-
----
-
-## 🎯 2026 Learning Roadmap
-
-```mermaid
-graph LR
-    A[Python Mastery] --> B[SQL Expert]
-    B --> C[Linux Security]
-    C --> D[SIEM Tools]
-    D --> E[Threat Hunting]
-    E --> F[Blue Team Analyst]
-    
-    style A fill:#00D9FF
-    style F fill:#00FF00
-```
-
 ### Q1 2026
 - ✅ Master Python for security analysis
 - 🔄 Advanced SQL for security databases
