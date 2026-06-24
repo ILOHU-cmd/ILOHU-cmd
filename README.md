@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hi there! I'm Emerson
+# Hi there! I'm Emerson
 
 ### 🛡️ Data Analyst | Aspiring Blue Team Specialist | Cybersecurity Enthusiast
 
@@ -16,16 +16,16 @@
 
 ---
 
-## 🎯 About Me
+## About Me
 
 
-🔍 Passionate about transforming data into security insights  
-🛡️ On the path to becoming a Blue Team specialist  
-📊 Combining data analysis with defensive cybersecurity  
+ Passionate about transforming data into security insights  
+ On the path to becoming a Blue Team specialist  
+ Combining data analysis with defensive cybersecurity  
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Languages & Tools
 
