@@ -2,7 +2,7 @@
   
 # Hi there! I'm Emerson
 
-###  Data Science | R | python | bash |
+###  | Data Science | R | python | bash |
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emerson-ballesteros-diaz-599705267/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emersondiaz1805+github@gmail.com)
@@ -19,9 +19,7 @@
 ## About Me
 
 
- Passionate about transforming data into security insights  
- On the path to becoming a Blue Team specialist  
- Combining data analysis with defensive cybersecurity  
+ Ciencia de datos, jupyter, r studio, python
 
 ---
 
