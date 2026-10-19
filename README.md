@@ -1,7 +1,7 @@
 <h1 align="center">Emerson's hub </h1>
 
 <p align="center">
-  Estudiante de Ingeniería en Ciencia de Datos 📊 · Bucaramanga, Colombia 🇨🇴
+  Estudiante de Ingeniería en Ciencia de Datos 📊 · Bucaramanga, Colombia 🇨🇴 Amante de Linux (cachy os)
 </p>
 
 ---
