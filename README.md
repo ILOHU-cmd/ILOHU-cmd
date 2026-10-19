@@ -1,18 +1,47 @@
 <h1 align="center">Hola, soy Emerson 👋</h1>
 
 <p align="center">
-  Estudiante de Ingeniería en Ciencia de Datos 📊 · Bucaramanga, Colombia 🇨🇴
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Estudiante+de+Ingeniería+en+Ciencia+de+Datos;Entusiasta+de+la+Ciberseguridad+🛡️;Python+%7C+Datos+%7C+Linux;Me+apasiona+construir+cosas+con+código+💻" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  📍 Bucaramanga, Colombia 🇨🇴 · 🎓 Universidad Industrial de Santander (UIS)
 </p>
 
 ---
 
-## 🎯 Sobre mí
+## 👨‍💻 Sobre mí
 
-- 🎓 Estudio Ingeniería en Ciencia de Datos en la **Universidad Industrial de Santander (UIS)**
+```python
+class Emerson:
+    def __init__(self):
+        self.rol = "Estudiante de Ingeniería en Ciencia de Datos"
+        self.universidad = "UIS"
+        self.lenguaje_favorito = "Python 🐍"
+        self.sistema = "Linux / Debian 🐧"
+        self.enfoque = ["Ciencia de Datos", "Ciberseguridad"]
+        self.aprendiendo = ["Machine Learning", "SQL", "Seguridad defensiva"]
+
+    def pasion(self):
+        while True:
+            self.aprender()
+            self.programar()
+            self.compartir()
+```
+
 - 🔭 Aspiro a convertirme en **científico de datos**
-- 🐍 Trabajo principalmente con **Python**
-- 🌱 Ahora mismo estoy aprendiendo: `[machine learning / estadística / SQL]`
+- 🛡️ Entusiasta de la **ciberseguridad**, me interesa usar datos para detectar y entender amenazas
+- ☕ Programar no es solo mi carrera: es lo que hago porque me gusta
 - 📫 Contacto: `[tu correo o LinkedIn]`
+
+## 🏅 Certificaciones
+
+| Certificado | Entidad |
+|-------------|---------|
+| `[Google Cybersecurity Certificate]` | Google / Coursera |
+| `[Otro certificado de Google]` | Google / Coursera |
+
+> Pon aquí solo los que realmente tengas y ajusta el nombre exacto como aparece en tu certificado.
 
 ## 🛠️ Stack
 
@@ -23,7 +52,7 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 
 ## 📁 Proyectos destacados
 
@@ -39,6 +68,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ILOHU-cmd&layout=compact&theme=tokyonight" height="150" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ILOHU-cmd&theme=tokyonight" alt="GitHub streak" />
+</p>
+
 ---
 
-<p align="center"><i>"Los datos cuentan historias, solo hay que saber escucharlas."</i></p>
+<p align="center">
+  <i>"Los datos cuentan historias, el código las hace posibles."</i> ✨
+</p>
