@@ -1,158 +1,44 @@
-<div align="center">
-  
-# Hi there! I'm Emerson
+<h1 align="center">Hola, soy Emerson 👋</h1>
 
-###  | Data Science | R | python | bash |
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emerson-ballesteros-diaz-599705267/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emersondiaz1805+github@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ILOHU-cmd)
-
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=ILOHU-cmd&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
-
-
-</div>
+<p align="center">
+  Estudiante de Ingeniería en Ciencia de Datos 📊 · Bucaramanga, Colombia 🇨🇴
+</p>
 
 ---
 
-## About Me
+## 🎯 Sobre mí
 
+- 🎓 Estudio Ingeniería en Ciencia de Datos en la **Universidad Industrial de Santander (UIS)**
+- 🔭 Aspiro a convertirme en **científico de datos**
+- 🐍 Trabajo principalmente con **Python**
+- 🌱 Ahora mismo estoy aprendiendo: `[machine learning / estadística / SQL]`
+- 📫 Contacto: `[tu correo o LinkedIn]`
 
- Ciencia de datos, jupyter, r studio, python
-
----
-
-##  Tech Stack
-
-### Languages & Tools
-
-<div align="center">
+## 🛠️ Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-</div>
+## 📁 Proyectos destacados
 
-### 📚 Currently Learning
+| Proyecto | Descripción | Tecnologías |
+|----------|-------------|-------------|
+| [nombre-proyecto-1](https://github.com/ILOHU-cmd/nombre-proyecto-1) | Breve descripción de qué hace | Python, Pandas |
+| [nombre-proyecto-2](https://github.com/ILOHU-cmd/nombre-proyecto-2) | Breve descripción de qué hace | Python, scikit-learn |
 
-```bash
-[████████░░] 80% Python for Security
-[██████░░░░] 60% SQL Analysis
-[█████░░░░░] 50% Linux Log Analysis
-[███░░░░░░░] 30% SIEM Tools
-[██░░░░░░░░] 20% Threat Intelligence
-```
+## 📈 Estadísticas
 
-### 🎓 Focus Areas
-
-- **🔐 Blue Team**: Log analysis, threat detection, incident response
-- **📊 Data Analysis**: Pandas, NumPy, data visualization
-- **🐧 Linux Security**: System log analysis, hardening, monitoring
-- **🗄️ Databases**: SQL for security queries and forensic analysis
-- **🚨 SIEM**: Learning to correlate security events
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ILOHU-cmd&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ILOHU-cmd&layout=compact&theme=tokyonight" height="150" />
+</p>
 
 ---
 
-## 📈 GitHub Statistics
-
-<div align="center">
-  
-
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ILOHU-cmd&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
-
-</div>
-
----
-
-## 🔥 Featured Projects
-
-### 🛡️ Security Analytics
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-#### 📊 Log Analyzer
-Python script for automated Linux log analysis
-- Suspicious pattern detection
-- Automated alerts
-- Data visualization
-  
-`Python` `Pandas` `Security`
-
-</td>
-<td width="50%">
-
-#### 🔍 Network Monitor
-Network monitoring tool
-- Traffic analysis
-- Anomaly detection
-- Real-time reporting
-  
-`Python` `Scapy` `SQL`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-#### 📈 Security Dashboard
-Interactive SOC dashboard
-- Security metrics
-- Event visualization
-- Indicators of compromise
-  
-`Python` `Plotly` `Streamlit`
-
-</td>
-<td width="50%">
-
-#### 🗄️ Threat Database
-Threat intelligence database
-- IOC cataloging
-- Optimized SQL queries
-- SIEM integration
-  
-`SQL` `PostgreSQL` `Python`
-
-</td>
-</tr>
-</table>
-
----
-
-
-
-
-## 📫 Connect With Me
-
-<div align="center">
-
-📧 **Email:** emersondiaz1805+github@gmail.com  
-💼 **LinkedIn:** [Your Profile](https://linkedin.com/in/your-profile)  
-🐦 **Twitter:** [@your-handle](https://twitter.com/your-handle)  
-📝 **Blog:** [your-blog.com](https://your-blog.com)
-
-</div>
-
----
-
-<div align="center">
-
-### 🌟 "Transforming data into security, one log at a time" 🌟
-
-
-**⭐ Like my profile? Star my repos!**
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontSize=0" width="100%"/>
-</div>
+<p align="center"><i>"Los datos cuentan historias, solo hay que saber escucharlas."</i></p>
