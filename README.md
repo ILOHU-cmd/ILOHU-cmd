@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Emerson 👋</h1>
+<h1 align="center">Emerson's hub </h1>
 
 <p align="center">
   Estudiante de Ingeniería en Ciencia de Datos 📊 · Bucaramanga, Colombia 🇨🇴
