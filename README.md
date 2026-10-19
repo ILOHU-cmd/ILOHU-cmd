@@ -6,7 +6,7 @@
 
 ---
 
-## 🎯 Sobre mí
+## Sobre mí
 
 - 🎓 Estudio Ingeniería en Ciencia de Datos en la **Universidad Industrial de Santander (UIS)**
 - 🔭 Aspiro a convertirme en **científico de datos**
