@@ -1,22 +1,32 @@
-<h1 align="center">Emerson Ballesteros Diaz</h1>
+<h1 align="center">Bienvenido al hub de Emerson Ballesteros</h1>
 
 <p align="center">
-  Estudiante de Ingeniería en Ciencia de Datos · Python · Ciberseguridad
-  <br>
-  Bucaramanga, Colombia
+  Explora mis proyectos de ciencia de datos y ciberseguridad
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Data_Science-0d1117?style=flat-square&labelColor=0d1117&color=30363d" />
+  <img src="https://img.shields.io/badge/Cybersecurity-0d1117?style=flat-square&labelColor=0d1117&color=30363d" />
+  <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&labelColor=0d1117&color=30363d" />
+  <img src="https://img.shields.io/badge/Linux-0d1117?style=flat-square&labelColor=0d1117&color=30363d" />
+  <img src="https://img.shields.io/badge/Open_Source-0d1117?style=flat-square&labelColor=0d1117&color=30363d" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ILOHU-cmd&label=Vistas&color=00A88F&style=flat-square" />
 </p>
 
 ---
 
-## Sobre mí
+## Perfil
 
-Estudio Ingeniería en Ciencia de Datos en la **Universidad Industrial de Santander (UIS)**. Trabajo con **Python** y aspiro a desempeñarme como científico de datos. Me interesa la **ciberseguridad** y, en particular, cómo el análisis de datos ayuda a detectar y entender amenazas.
+- 🎓 Universidad Industrial de Santander (UIS), Ingeniería en Ciencia de Datos
+- 📍 Bucaramanga, Colombia
+- 📅 En GitHub desde `[mes y año]`
+- 🐧 CachyOS
+- 📫 `[tu correo o LinkedIn]`
 
-Programar es lo que hago porque me gusta: construir, romper, depurar y volver a construir. Trabajo a diario sobre **Linux (CachyOS)** y prefiero herramientas abiertas.
-
-- Enfoque actual: análisis de datos, SQL y fundamentos de machine learning
-- Interés de largo plazo: seguridad defensiva (Blue Team)
-- Contacto: `[tu correo o LinkedIn]`
+Aspiro a ser científico de datos. Me interesa la ciberseguridad, en especial el análisis de datos aplicado a seguridad defensiva. Programar es lo que hago porque me gusta.
 
 ## Certificaciones
 
@@ -25,7 +35,24 @@ Programar es lo que hago porque me gusta: construir, romper, depurar y volver a 
 | Google Data Analytics Certificate | Google / Coursera |
 | `[Google Cybersecurity Certificate u otro]` | Google / Coursera |
 
-## Stack técnico
+## Estadísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ILOHU-cmd&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ILOHU-cmd&layout=donut&theme=dark&hide_border=true&bg_color=0d1117" height="165" />
+</p>
+
+## Contribuciones
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/00D26A/ILOHU-cmd" alt="Contribuciones de ILOHU-cmd" width="95%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ILOHU-cmd&theme=github-compact&hide_border=true&bg_color=0d1117&color=00D26A&line=00D26A&point=ffffff" width="95%" />
+</p>
+
+## Tecnologías principales
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
@@ -38,16 +65,21 @@ Programar es lo que hago porque me gusta: construir, romper, depurar y volver a 
 
 ## Proyectos destacados
 
-| Proyecto | Descripción | Tecnologías |
-|----------|-------------|-------------|
-| [nombre-proyecto-1](https://github.com/ILOHU-cmd/nombre-proyecto-1) | Qué problema resuelve y qué resultado da | Python, Pandas, SQL |
-| [nombre-proyecto-2](https://github.com/ILOHU-cmd/nombre-proyecto-2) | Qué problema resuelve y qué resultado da | Python, scikit-learn |
-
-## Estadísticas
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ILOHU-cmd&show_icons=true&theme=dark&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ILOHU-cmd&layout=compact&theme=dark&hide_border=true" height="150" />
+  <a href="https://github.com/ILOHU-cmd/NOMBRE-REPO-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ILOHU-cmd&repo=NOMBRE-REPO-1&theme=dark&hide_border=true&bg_color=0d1117" />
+  </a>
+  <a href="https://github.com/ILOHU-cmd/NOMBRE-REPO-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ILOHU-cmd&repo=NOMBRE-REPO-2&theme=dark&hide_border=true&bg_color=0d1117" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/ILOHU-cmd/NOMBRE-REPO-3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ILOHU-cmd&repo=NOMBRE-REPO-3&theme=dark&hide_border=true&bg_color=0d1117" />
+  </a>
+  <a href="https://github.com/ILOHU-cmd/NOMBRE-REPO-4">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ILOHU-cmd&repo=NOMBRE-REPO-4&theme=dark&hide_border=true&bg_color=0d1117" />
+  </a>
 </p>
 
 ---
