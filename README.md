@@ -25,20 +25,3 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 📁 Proyectos destacados
-
-| Proyecto | Descripción | Tecnologías |
-|----------|-------------|-------------|
-| [nombre-proyecto-1](https://github.com/ILOHU-cmd/nombre-proyecto-1) | Breve descripción de qué hace | Python, Pandas |
-| [nombre-proyecto-2](https://github.com/ILOHU-cmd/nombre-proyecto-2) | Breve descripción de qué hace | Python, scikit-learn |
-
-## 📈 Estadísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ILOHU-cmd&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ILOHU-cmd&layout=compact&theme=tokyonight" height="150" />
-</p>
-
----
-
-<p align="center"><i>"Los datos cuentan historias, solo hay que saber escucharlas."</i></p>
