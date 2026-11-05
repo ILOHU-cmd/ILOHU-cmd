@@ -8,11 +8,11 @@
 
 ## 🎯 Sobre mí
 
-- 🎓 Estudio Ingeniería en Ciencia de Datos en la **Universidad Industrial de Santander (UIS)**
-- 🔭 Aspiro a convertirme en **científico de datos**
-- 🐍 Trabajo principalmente con **Python**
-- 🌱 Ahora mismo estoy aprendiendo: `[machine learning / estadística / SQL]`
-- 📫 Contacto: `[tu correo o LinkedIn]`
+-  Estudio Ingeniería en Ciencia de Datos en la **Universidad Industrial de Santander (UIS)**
+-  Aspiro a convertirme en **científico de datos**
+-  Trabajo principalmente con **Python**
+-  Ahora mismo estoy aprendiendo: `[Manejo de agentes / SQL]`
+- 
 
 ## 🛠️ Stack
 
